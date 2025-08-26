@@ -1,1 +1,2 @@
-console.log("Hello, Rock Paper Scissors!");
+alert("***Under Construction***");
+console.log(alert);
